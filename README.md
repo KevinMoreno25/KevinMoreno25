@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Kevin Moreno Medalles
 
-<!--
-**KevinMoreno25/KevinMoreno25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Análisis y Desarrollo de Software** e **Ingeniería de Sistemas y Computación** 
+💻 Apasionado por el desarrollo de software, la resolución de problemas y la tecnología  
+🚀 Interesado en backend, estructuras de datos y buenas prácticas de programación  
 
-Here are some ideas to get you started:
+### 🔧 Tecnologías y herramientas
+- **Lenguajes:** Java | Python | JavaScript  
+- **Bases de datos:** MySQL | PostgreSQL  
+- **Desarrollo:** Git | GitHub | APIs REST  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Actualmente aprendiendo
+- Arquitectura de software  
+- Algoritmos y estructuras de datos  
+- Desarrollo web  
+
+### 🤝 Colaboración
+Abierto a colaborar en proyectos académicos y de código abierto.
+
+### 📫 Contacto
+- GitHub: https://github.com/KevinMoreno25
+
