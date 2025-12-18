@@ -1,8 +1,8 @@
 ## 👋 Kevin Moreno Medalles
 
-🎓 Estudiante de **Análisis y Desarrollo de Software** e **Ingeniería de Sistemas y Computación**
-💻 Apasionado por el desarrollo de software, la resolución de problemas y la tecnología  
-🚀 Interesado en backend, estructuras de datos y buenas prácticas de programación  
+- 🎓 Estudiante de **Análisis y Desarrollo de Software** y **Ingeniería de Sistemas y Computación**
+- 💻 Apasionado por el desarrollo de software, la resolución de problemas y la tecnología
+- 🚀 Interesado en backend, estructuras de datos y buenas prácticas de programación
 
 ### 🔧 Tecnologías y herramientas
 - **Lenguajes:** Java | Python | JavaScript  
