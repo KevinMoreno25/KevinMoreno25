@@ -18,6 +18,6 @@
 Abierto a colaborar en proyectos académicos y de código abierto.
 
 ### 📫 Contacto
-- GitHub: https://github.com/KevinMoreno25
+- GitHub: https://github.com/kevmorenome
 - Correo: kevinmoreno2025@gmail.com
 
